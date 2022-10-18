@@ -1,0 +1,53 @@
+/* setting the background-image */
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-color: #555;
+	color: rgba(255, 153, 0, 1);
+}
+
+/* headline */
+header {
+	text-align: center;
+	padding: 2% 0 2% 0;
+	margin-bottom: 3%;
+	border-bottom: 3px solid rgba(255, 153, 0, 1);
+}
+header h1 {
+	font-size: 250%;
+	margin: 0;
+}
+
+/* galerie */
+.flex-container {
+	display: grid;
+	justify-content: center;
+}
+.flex-container img {
+	display: block;
+	box-sizing: border-box;
+	width: 96%;
+	margin: 2%;
+	border: 2px solid rgba(255, 153, 0, 0.3);
+}
+
+/* default: extra small devices, < 500px, 1-column layout */	
+@media (max-width : 500){
+
+}
+@media (max-width: 800) and (min-width: 500){
+	.flex-container {
+		grid-template-columns: 96% 96%;	
+    grid-template-rows: auto 1fr 100px;
+	}
+}
+
+
+/* small devices, 500px - 800px, 2-column layout */	
+
+
+
+/* medium and large devices, > 800px, 3-column layout */	
+
+
