@@ -1,0 +1,141 @@
+/** CSS-Stylesheet
+*	author: HTL Leonding
+**/
+body {
+    font-family: Calibri, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+}
+/*++++Kasterl++++*/
+h1{
+    background-color: #c75b12;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#access{
+    width: 600px;
+    background-color: #a03336;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#exel{
+    width:600px;
+    background-color: #1d6f42;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#onedrive{
+    width:600px;
+    background-color: #094ab2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#onenote{
+    width:600px;
+    background-color: #7e3779 ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#powerpoint{
+    width:600px;
+    background-color: #d04423;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#sway{
+    width:600px;
+    background-color: #16897c;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+#word{
+    width:600px;
+    background-color: #2a5699;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+
+/*++++Kasterl Bild++++*/
+#access img{
+    height: 50px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    
+}
+#exel img{
+    height: 50px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+#onedrive img{
+    height: 50px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+#onenote img{
+    height: 50px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+#powerpoint img{
+    height: 50px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+#sway img{
+    height: 50px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+#word img{
+    height: 50px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+}  
+ul{list-style-type:none}

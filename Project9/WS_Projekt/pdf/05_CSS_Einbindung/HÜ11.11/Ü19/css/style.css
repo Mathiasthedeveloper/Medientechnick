@@ -1,0 +1,43 @@
+body{
+    background-color: #006666;
+    text-align: center; 
+    font-family: "Copperplate Gothic Light" ;
+}
+/**********Start ICON'S********/
+.icons_sun{
+font-size: 1cm ;
+color: #ffff00
+}
+.icons_cloud{
+    font-size: 1cm ;
+    color: #bbb;
+}
+.icons_rain{
+    font-size: 1cm ;
+    color: #0000ff;
+}
+/*********End ICON'S*******/
+
+/********Start Text*********/
+.rain{
+    color: #0000ff;
+}
+.sun{
+    color: #ffff00
+}
+.cloud{
+    color: #bbb;
+}
+p{
+    font-size: 0.5cm;
+}
+ul{
+   list-style: none;
+}
+.min{
+    color: #9999ff;
+}
+.max{
+    color: #ff3333;
+}
+/********End Text*********/
